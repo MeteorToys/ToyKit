@@ -1,0 +1,35 @@
+/* 
+	
+	# Step 4:
+	  Replace the word SDK with the name of your package.
+	
+	  Then, open ./ToyKit/main.js
+
+*/
+
+.MeteorToys_SDK_header, .MeteorToys_SDK_content {
+	min-width: 304px; /* box width minus 8px from each side */
+}
+
+.MeteorToys_SDK_header {
+	line-height: 28px;
+	background:  rgba(0,0,0,.36);
+	text-indent: 8px;
+	overflow:  hidden;
+}
+
+.MeteorToys_SDK_content {
+	height:  calc(100% - 28px);
+	padding: 4px 8px;
+}
+
+.MeteorToys_SDK_button { 
+	float:       right;
+	border-left: 1px solid rgba(0,0,0,.3);
+	padding:     0 8px;
+	text-indent: 0px;
+}
+.MeteorToys_SDK_button:hover {
+	cursor: pointer;
+	color: rgba(131, 202, 237, 1);
+}

@@ -1,0 +1,31 @@
+<!-- 
+	
+	# Step 2
+	  Replace the word SDK with the name of your package.
+	  Then, open ./client/main.js
+
+ -->
+
+<template name="MeteorToys_SDK">
+	{{#MeteorToy name="MeteorToys_SDK"}}
+		<!-- Start Editable Zone -->
+			{{> MeteorToys_SDK_header}}
+			{{> MeteorToys_SDK_content}}
+		<!-- End Editable Zone  -->
+	{{/MeteorToy}}
+</template>
+
+<template name="MeteorToys_SDK_header">
+	<!-- Note: `MeteorToys-background-overlay1`
+ 		 comes from Meteor Toys ThemeKit -->
+	<div class="MeteorToys_SDK_header MeteorToys-background-overlay1">
+		<div class="MeteorToys_SDK_button">Click Me</div>
+		<strong>Welcome to ToyKit</strong>
+	</div>
+</template>
+
+<template name="MeteorToys_SDK_content">
+	<div class="MeteorToys_SDK_content">
+		You've pressed the button {{count}} times.
+	</div>
+</template>

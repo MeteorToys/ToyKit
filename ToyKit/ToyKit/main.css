@@ -1,0 +1,26 @@
+/* 
+
+	# Step 6
+	  You can modify the size of the window in ./ToyKit/main.css
+	  You can modify the the icon in ./ToyKit/main.png
+	
+	  After this, you can run `meteor add meteortoys:yourpackage`
+	  to install it.
+	  
+	  To set up collections, you will find instructions in ./lib/main.js
+	  To set up Methods, you will find instructions in ./server/main.js
+	  To modify the icon, use ./ToyKit/main.png as the starter
+		- Recommended 2px solid #fff stroke
+
+	  Good luck building the package :)
+
+ */
+
+#MeteorToys_SDK {
+	height: 359px; /* maximum 600px */
+	width: 320px;  /* maximum 600px */
+}
+
+#MeteorToys_SDK .MeteorToys_icon {
+	background-image: url('./main.png');
+}
