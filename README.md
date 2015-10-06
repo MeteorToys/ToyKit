@@ -1,4 +1,4 @@
-ToyKit™ - Build Your Own Meteor Toys™
+ToyKit™ - Build Your Own <a href="http://meteor.toys">Meteor Toys</a>™
 =====================================
 
 <a href="http://meteor.toys">Meteor Toys</a> packages are used by thousands of Meteor developers [estimate], with over 100,000 package downloads. Starting today, you can tap into the workflow of these developers with ToyKit. 
