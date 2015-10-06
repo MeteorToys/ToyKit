@@ -1,9 +1,9 @@
 ToyKit™ - Build Your Own Meteor Toys™
 =====================================
 
-Meteor Toys packages are used by (an estimate of) thousands of Meteor developers, with over 100,000 package downloads. Starting today, you can tap into the workflow of these developers with ToyKit. 
+<a href="http://meteor.toys"Meteor Toys</a> packages are used by thousands of Meteor developers [estimate], with over 100,000 package downloads. Starting today, you can tap into the workflow of these developers with ToyKit. 
 
-With ToyKit, you can forget about writing boilerplate code and then explaining to developers how to use your package. Everything is designed to help you integrate with what they already know.
+With ToyKit, you can forget about writing boilerplate code and then explaining to developers how to use your development tool. Everything is designed to help you integrate with what they already know.
 
 <img src="http://meteor.toys/sdk.gif">
 
